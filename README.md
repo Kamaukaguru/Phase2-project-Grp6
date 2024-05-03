@@ -2,7 +2,7 @@
 
 ![Kingcounty Houses](Kingcounty.jpg)
 
-# Business understanding.
+# 1.0 Project Overview/Business understanding.
 ## 1.Introduction
 Owning a home is a significant financial decision. Understanding factors that influence house prices can empower both buyers and sellers to make informed choices. However, accurately determining a property's value can be complex due to various factors influencing house prices.
 
@@ -12,7 +12,7 @@ This study aims to provide valuable insights for both homeowners and potential b
 
 
 
-## 1.1 Project Overview/Business understanding
+## 
 Home sellers and buyers often struggle to determine the optimal pricing and value of a property. This project aims to analyze a dataset of homes sold in king county focusing on house prices and features like square footage, number of bedrooms, and neighborhood amenities. By understanding the relationships between these features and sale prices, we can develop insights to:
 
 1. Advise sellers (homeowners or developers) on data-driven strategies to enhance their properties for maximum sale price.
@@ -76,7 +76,9 @@ Also for every one unit change in the number of bedrooms, then the price of the 
 # 5.0 Conclusions
 We managed to meet our main and specific objectives.The results shows that the more the number of floors the higher the house price,the less the number of bedrooms the higher the house price and the Bigger the square foot living the higher the house price 
 
-# 6.0 Recommendations:
+# 6.0 Recommendations
 1. Homeowners to focus on properties with a lower bedroom count so that in return it will lead to an increase in price of the house.
+
 2. Increasing the living space generally increases the house price.
+
 3. For stakeholders,if feasible, explore opportunities to add or emphasize multiple floors in properties to increase their price value.
