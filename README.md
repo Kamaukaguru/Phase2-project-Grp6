@@ -21,15 +21,18 @@ Home sellers and buyers often struggle to determine the optimal pricing and valu
 
 
 # 1.3 Objectives
-Main objective-  Build and evaluate models using various combinations of the available house features in King County.
+# 1.3.1 Main objective
+ 
+ Build and evaluate models using various combinations of the available house features in King County.
 
-# 1.4 Specific objectives:
-Evaluate how the number of floors impact the price of a house in King County.
-Determine how the number of bedrooms impact the price of a house in King County.
-Examine the impact the number of bathrooms has on the price of a house in King County.
-Assess the impact of renovations on the price of a house in King County.
-Determine how the square footage of living space of a house impacts house price in King County.
-Evaluate which combinations of the available features in the dataset are the most impactful features for predicting sale price.
+# 1.3.2 Specific objectives
+
+1. Evaluate how the number of floors impact the price of a house in King County.
+2. Determine how the number of bedrooms impact the price of a house in King County.
+3. Examine the impact the number of bathrooms has on the price of a house in King County.
+4. Assess the impact of renovations on the price of a house in King County.
+5. Determine how the square footage of living space of a house impacts house price in King County.
+6. Evaluate which combinations of the available features in the dataset are the most impactful features for predicting sale price.
 
 # 2.0 Data Understanding.
 The dataset provided is ("kc_house_data.csv").The timefarme of the data is 2014 to 2015.It had 21,597 rows and 21 columns.Our dataset contained numerical and categorical variables.Each row consists of an individual house, indexed by a unique house id.
@@ -74,6 +77,6 @@ Also for every one unit change in the number of bedrooms, then the price of the 
 We managed to meet our main and specific objectives.The results shows that the more the number of floors the higher the house price,the less the number of bedrooms the higher the house price and the Bigger the square foot living the higher the house price 
 
 # 6.0 Recommendations:
-Homeowners to focus on properties with a lower bedroom count so that in return it will lead to an increase in price of the house.
+1.Homeowners to focus on properties with a lower bedroom count so that in return it will lead to an increase in price of the house.
 Increasing the living space generally increases the house price.
  For stakeholders,if feasible, explore opportunities to add or emphasize multiple floors in properties to increase their price value.
