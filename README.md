@@ -77,6 +77,6 @@ Also for every one unit change in the number of bedrooms, then the price of the 
 We managed to meet our main and specific objectives.The results shows that the more the number of floors the higher the house price,the less the number of bedrooms the higher the house price and the Bigger the square foot living the higher the house price 
 
 # 6.0 Recommendations:
-1.Homeowners to focus on properties with a lower bedroom count so that in return it will lead to an increase in price of the house.
-Increasing the living space generally increases the house price.
- For stakeholders,if feasible, explore opportunities to add or emphasize multiple floors in properties to increase their price value.
+1. Homeowners to focus on properties with a lower bedroom count so that in return it will lead to an increase in price of the house.
+2. Increasing the living space generally increases the house price.
+3. For stakeholders,if feasible, explore opportunities to add or emphasize multiple floors in properties to increase their price value.
