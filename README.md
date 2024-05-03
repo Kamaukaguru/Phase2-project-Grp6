@@ -3,7 +3,7 @@
 ![Kingcounty Houses](Kingcounty.jpg)
 
 # 1.0 Project Overview/Business understanding.
-## 1.Introduction
+## 1.1 Introduction
 Owning a home is a significant financial decision. Understanding factors that influence house prices can empower both buyers and sellers to make informed choices. However, accurately determining a property's value can be complex due to various factors influencing house prices.
 
 To gain insights into these factors, this study will analyze and model a dataset of house prices in King County. This analysis will focus on key factors such as square footage, number of bedrooms, number of bathrooms, and other property features like lot size. By leveraging data analysis, we aim to uncover the specific impact of these factors on property valuations and identify the most influential factors driving house prices. Additionally, we will investigate how these factors correlate with each other.
@@ -12,7 +12,8 @@ This study aims to provide valuable insights for both homeowners and potential b
 
 
 
-## 
+## 1.2 Problem statement
+
 Home sellers and buyers often struggle to determine the optimal pricing and value of a property. This project aims to analyze a dataset of homes sold in king county focusing on house prices and features like square footage, number of bedrooms, and neighborhood amenities. By understanding the relationships between these features and sale prices, we can develop insights to:
 
 1. Advise sellers (homeowners or developers) on data-driven strategies to enhance their properties for maximum sale price.
